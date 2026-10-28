@@ -5,13 +5,13 @@
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDRrHCBaMr02F-o5VvfMaO1y8KEeaYuRhw",
-  authDomain: "techverse-site.firebaseapp.com",
-  projectId: "techverse-site",
-  storageBucket: "techverse-site.firebasestorage.app",
-  messagingSenderId: "808439176198",
-  appId: "1:808439176198:web:cb9fc3f5841f8cda887787",
-  measurementId: "G-0JNMVMXTC3"
+  apiKey: "AIzaSyAhUgmeBHaAVbAuQxt-Ovz6NxJacgv3SyM",
+  authDomain: "tv-editor1.firebaseapp.com",
+  projectId: "tv-editor1",
+  storageBucket: "tv-editor1.firebasestorage.app",
+  messagingSenderId: "726024476390",
+  appId: "1:726024476390:web:6fae86fdce6b5c6b9e8d27",
+  measurementId: "G-GBKMHRFQZ4"
 };
 
 export default firebaseConfig;
